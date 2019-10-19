@@ -1,0 +1,4 @@
+Player 1 level is Advanced
+Player 2 level is Advanced
+max movements is : 1 and soldiers is : 1	maxSpaceSize : 1
+max movements is : 3 and soldiers is : 3	maxSpaceSize : 60

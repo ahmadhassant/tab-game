@@ -1,0 +1,4 @@
+Player 1 level is Intermediate
+Player 2 level is Beginner
+max movements is : 1 and soldiers is : 1	maxSpaceSize : 1
+max movements is : 2 and soldiers is : 1	maxSpaceSize : 2

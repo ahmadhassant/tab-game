@@ -1,0 +1,85 @@
+Player 1 Level is Advanced
+Player 2 Level is Advanced
+Max Movable Soldiers Number is : 5
+Max Movements Sequence Number is : 7
+Max Movements is : 6 and Soldiers is : 7
+The Game started from Player 2
+The Winner is Player 1
+The Game ended at : 835141
+Game Duration is 2 Minutes and 28 Second and 465
+max movable soldiers number is : 5
+the game started at : 686676
+Player1 moving from B8 To B5
+Player1 moving from B5 To B2
+Player2 moving from C1 To C7
+Player2 moving from D1 To C2
+Player1 moving from B2 To C2
+Player2 moving from C7 To B8
+Player1 moving from C2 To C4
+Player2 moving from B8 To B6
+Player1 moving from C4 To C7
+Player2 moving from B6 To B3
+Player1 moving from C7 To D7
+Player2 moving from B3 To B1
+Player2 moving from B1 To A3
+Player1 moving from A8 To B7
+Player2 moving from D2 To C2
+Player1 moving from B7 To B4
+Player2 moving from C2 To C5
+Player1 moving from B4 To B1
+Player2 moving from C5 To C7
+Player1 moving from A7 To B8
+Player2 moving from D5 To D3
+Player2 moving from D3 To D2
+Player1 moving from B8 To B5
+Player2 moving from D7 To D5
+Player1 moving from B5 To B2
+Player2 moving from D4 To D1
+Player1 moving from B2 To C2
+Player2 moving from D5 To D3
+Player1 moving from C2 To C5
+Player2 moving from C7 To B7
+Player2 moving from B7 To B3
+Player1 moving from C5 To C7
+Player2 moving from B3 To B1
+Player2 moving from B1 To A1
+Player2 moving from D3 To C2
+Player1 moving from C7 To D7
+Player2 moving from C2 To C4
+Player1 moving from A6 To A8
+Player2 moving from C4 To C7
+Player2 moving from D2 To D1
+Player1 moving from A8 To B6
+Player2 moving from D1 To C2
+Player2 moving from C2 To C8
+Player1 moving from B6 To B3
+Player2 moving from D2 To C1
+Player1 moving from B3 To B1
+Player2 moving from C1 To C3
+Player1 moving from A5 To B6
+Player1 moving from B6 To B4
+Player2 moving from C3 To C6
+Player1 moving from B4 To B2
+Player2 moving from C7 To B8
+Player1 moving from B1 To C2
+Player2 moving from B8 To B2
+Player2 moving from B2 To C1
+Player1 moving from C2 To C6
+Player1 moving from C6 To D8
+Player1 moving from D8 To D7
+Player1 moving from D7 To D3
+Player2 moving from C1 To C4
+Player1 moving from D3 To C4
+Player1 moving from C4 To C6
+Player2 moving from C8 To B7
+Player1 moving from C6 To C8
+Player2 moving from B7 To B5
+Player1 moving from C8 To D6
+Player2 moving from B5 To B3
+Player2 moving from B3 To A2
+Player1 moving from D6 To D4
+Player2 moving from A1 To A2
+Player2 moving from A2 To A4
+Player2 moving from A2 To A3
+Player1 moving from A3 To A4
+Congratulations ...Player 1 

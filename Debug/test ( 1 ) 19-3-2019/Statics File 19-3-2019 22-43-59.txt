@@ -1,0 +1,131 @@
+Player 1 level is Advanced
+Player 2 level is Beginner
+max movements is : 1 and soldiers is : 1	maxSpaceSize : 1
+max movements is : 1 and soldiers is : 2	maxSpaceSize : 2
+Player 1 level is Advanced
+Player 2 level is Advanced
+Player 1 level is Advanced
+Player 2 level is Advanced
+max movements is : 2 and soldiers is : 4	maxSpaceSize : 20
+max movements is : 2 and soldiers is : 7	maxSpaceSize : 56
+max movements is : 3 and soldiers is : 8	maxSpaceSize : 720
+max movements is : 4 and soldiers is : 7	maxSpaceSize : 5040
+max movements is : 7 and soldiers is : 6	maxSpaceSize : 3991680
+Player 1 level is Advanced
+Player 2 level is Advanced
+the test num is : 0
+max movable soldiers number is : 5
+max movements Sequence number is : 7
+max movements is : 7 and soldiers is : 6
+space size histogram : 
+ 0	| 42
+ 1	| 13
+ 2	| 1
+ 3	| 0
+ 4	| 1
+ 5	| 0
+ 6	| 0
+ 7	| 0
+ 8	| 0
+ 9	| 0
+- --  ---  -- -
+1
+0
+1
+Player 1 level is Advanced
+Player 2 level is Beginner
+max movements is : 3 and soldiers is : 1	maxSpaceSize : 6
+the test num is : 1
+max movable soldiers number is : 1
+max movements Sequence number is : 3
+max movements is : 3 and soldiers is : 1
+space size histogram : 
+ 0	| 0
+ 1	| 1
+ 2	| 0
+ 3	| 0
+ 4	| 0
+ 5	| 0
+ 6	| 0
+ 7	| 0
+ 8	| 0
+ 9	| 0
+- --  ---  -- -
+2
+0
+2
+max movements is : 3 and soldiers is : 1	maxSpaceSize : 6
+the test num is : 2
+max movable soldiers number is : 1
+max movements Sequence number is : 3
+max movements is : 3 and soldiers is : 1
+space size histogram : 
+ 0	| 0
+ 1	| 1
+ 2	| 0
+ 3	| 0
+ 4	| 0
+ 5	| 0
+ 6	| 0
+ 7	| 0
+ 8	| 0
+ 9	| 0
+- --  ---  -- -
+3
+0
+3
+max movements is : 2 and soldiers is : 1	maxSpaceSize : 2
+max movements is : 1 and soldiers is : 3	maxSpaceSize : 3
+max movements is : 1 and soldiers is : 4	maxSpaceSize : 4
+max movements is : 2 and soldiers is : 5	maxSpaceSize : 30
+max movements is : 2 and soldiers is : 8	maxSpaceSize : 72
+max movements is : 4 and soldiers is : 6	maxSpaceSize : 3024
+the test num is : 3
+max movable soldiers number is : 8
+max movements Sequence number is : 4
+max movements is : 4 and soldiers is : 6
+space size histogram : 
+ 0	| 12
+ 1	| 10
+ 2	| 2
+ 3	| 1
+ 4	| 0
+ 5	| 0
+ 6	| 0
+ 7	| 0
+ 8	| 0
+ 9	| 0
+- --  ---  -- -
+4
+0
+4
+max movements is : 2 and soldiers is : 1	maxSpaceSize : 2
+max movements is : 3 and soldiers is : 1	maxSpaceSize : 6
+max movements is : 2 and soldiers is : 4	maxSpaceSize : 20
+max movements is : 4 and soldiers is : 1	maxSpaceSize : 24
+max movements is : 6 and soldiers is : 1	maxSpaceSize : 720
+the test num is : 4
+max movable soldiers number is : 4
+max movements Sequence number is : 6
+max movements is : 6 and soldiers is : 1
+space size histogram : 
+ 0	| 55
+ 1	| 11
+ 2	| 0
+ 3	| 1
+ 4	| 0
+ 5	| 0
+ 6	| 0
+ 7	| 0
+ 8	| 0
+ 9	| 0
+- --  ---  -- -
+5
+0
+5
+Player 1 level is Advanced
+Player 2 level is Beginner
+max movements is : 1 and soldiers is : 1	maxSpaceSize : 1
+max movements is : 1 and soldiers is : 2	maxSpaceSize : 2
+max movements is : 2 and soldiers is : 2	maxSpaceSize : 6
+max movements is : 3 and soldiers is : 3	maxSpaceSize : 60

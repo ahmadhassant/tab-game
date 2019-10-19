@@ -1,0 +1,104 @@
+Player 1 Level is Advanced
+Player 2 Level is Beginner
+Max Movable Soldiers Number is : 4
+Max Movements Sequence Number is : 6
+Max Movements is : 1 and Soldiers is : 6
+The Game started from Player 2
+The Winner is Player 1
+The Game ended at : 1122524
+Game Duration is 2 Minutes and 23 Second and 660
+max movable soldiers number is : 4
+the game started at : 978864
+max movements is : 2 and soldiers is : 1	maxSpaceSize : 2
+Player1 moving from B8 To B5
+Player1 moving from B5 To B1
+Player1 moving from B1 To C3
+Player1 moving from C3 To D8
+Player1 moving from D8 To D5
+Player1 moving from A8 To B7
+Player1 moving from B7 To B4
+Player1 moving from B4 To B2
+Player1 moving from A7 To B8
+max movements is : 3 and soldiers is : 1	maxSpaceSize : 6
+Player2 moving from C1 To C3
+Player2 moving from C3 To B8
+Player2 moving from B8 To B4
+Player1 moving from B2 To C5
+Player1 moving from C5 To C7
+Player2 moving from B4 To B2
+Player1 moving from C7 To D8
+Player2 moving from B2 To C1
+Player2 moving from C1 To C3
+Player2 moving from D3 To D1
+Player1 moving from A6 To A8
+Player2 moving from C3 To C5
+Player1 moving from A8 To B7
+Player2 moving from D2 To C2
+Player1 moving from B7 To B4
+Player2 moving from D1 To C2
+Player1 moving from B4 To B1
+Player2 moving from C5 To C8
+Player1 moving from B1 To C2
+Player2 moving from C8 To B7
+Player1 moving from C2 To C4
+Player2 moving from D5 To D2
+Player1 moving from C4 To C6
+Player2 moving from B7 To B4
+Player1 moving from C6 To B8
+Player2 moving from B4 To B2
+Player1 moving from B8 To B6
+Player2 moving from B2 To A1
+Player1 moving from A5 To A7
+Player2 moving from D2 To C1
+max movements is : 2 and soldiers is : 4	maxSpaceSize : 20
+Player1 moving from A4 To A5
+Player1 moving from B6 To B3
+Player2 moving from D6 To D4
+Player1 moving from A5 To A8
+Player2 moving from D4 To D1
+Player1 moving from B3 To B1
+Player2 moving from C1 To C3
+Player1 moving from A3 To A5
+Player2 moving from D1 To C3
+Player1 moving from B1 To C2
+Player1 moving from C2 To C3
+Player2 moving from A1 To A4
+Player1 moving from C3 To C6
+Player2 moving from A4 To A5
+Player2 moving from A5 To A8
+Player1 moving from C6 To C8
+Player2 moving from A8 To B7
+Player1 moving from C8 To D7
+Player2 moving from B7 To B5
+Player1 moving from A7 To A8
+Player1 moving from A8 To B8
+Player1 moving from B8 To B6
+Player2 moving from B5 To B3
+Player1 moving from B6 To B4
+max movements is : 4 and soldiers is : 1	maxSpaceSize : 24
+Player2 moving from B3 To C2
+Player2 moving from C2 To C5
+Player2 moving from C5 To C6
+Player2 moving from C6 To C7
+Player1 moving from B4 To B1
+Player2 moving from C7 To B8
+Player1 moving from B1 To C2
+Player2 moving from B8 To B4
+Player2 moving from B4 To B1
+Player1 moving from C2 To C3
+Player1 moving from C3 To C4
+Player1 moving from C4 To C7
+Player2 moving from B1 To C3
+Player1 moving from C7 To B8
+Player2 moving from C3 To C6
+Player1 moving from B8 To B6
+Player2 moving from C6 To C8
+Player1 moving from B6 To B4
+Player2 moving from C8 To B6
+max movements is : 6 and soldiers is : 1	maxSpaceSize : 720
+Player1 moving from B4 To C3
+Player1 moving from C3 To C5
+Player1 moving from C5 To B8
+Player1 moving from B8 To B7
+Player1 moving from B7 To B6
+Congratulations ...Player 1 
